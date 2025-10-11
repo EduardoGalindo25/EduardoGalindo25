@@ -2,6 +2,17 @@
 
 <p align="center">A passionate <strong>Full Stack developer</strong></p> 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Full Stack Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=PHP+Lover" alt="PHP Lover" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=KISS-Coder" alt="KISS-Coder" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React" alt="React" />
+</p>
+
+
 ---
 
 ## 💻 What I Do
@@ -68,4 +79,3 @@
 - Keep sharing open-source libraries and useful tools with the community.
 
 
-> ⚡ Always open to **collaboration, learning, and sharing ideas**. Feel free to contribute or ask questions anytime!
