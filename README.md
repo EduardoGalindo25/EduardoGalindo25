@@ -1,15 +1,14 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/EduardoGalindo25">Eduardo</a> 🎧</h1>
 
-<p align="center">A passionate <strong>Full Stack developer</strong></p> 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Full Stack Developer" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=PHP+Lover" alt="PHP Lover" />
+<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React" alt="React" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=KISS-Coder" alt="KISS-Coder" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React" alt="React" />
+  
 </p>
 
 
@@ -27,10 +26,10 @@
 
 ## 📦 Libraries and Repositories
 
-<h3><a href="https://github.com/EduardoGalindo25/response-helpers"></a>Response Helpers</h3>
-<h3><a href="https://github.com/EduardoGalindo25/request-helpers"></a>Request Helpers</h3>
-<h3><a href="https://github.com/EduardoGalindo25/sql-helpers"></a>SQL Helpers</h3>
-<h3><a href="https://github.com/EduardoGalindo25/php-api-router"></a>API Router</h3>
+<h3><a href="https://github.com/EduardoGalindo25/response-helpers">Response Helpers</a></h3>
+<h3><a href="https://github.com/EduardoGalindo25/request-helpers">Request Helpers</a></h3>
+<h3><a href="https://github.com/EduardoGalindo25/sql-helpers">SQL Helpers</a></h3>
+<h3><a href="https://github.com/EduardoGalindo25/php-api-router">API Router</a></h3>
 
 ---
 
