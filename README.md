@@ -51,7 +51,7 @@ My future goal is to create a **lightweight microframework** for PHP that’s ac
 
 ## 📊 My GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabogalro&show_icons=true&theme=radical)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabogalro&show_icons=true&theme=radical&include_private=true)
 
 ---
 
