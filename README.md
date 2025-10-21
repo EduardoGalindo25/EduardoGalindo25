@@ -30,6 +30,7 @@
 <h3><a href="https://github.com/EduardoGalindo25/request-helpers">Request Helpers</a></h3>
 <h3><a href="https://github.com/EduardoGalindo25/sql-helpers">SQL Helpers</a></h3>
 <h3><a href="https://github.com/EduardoGalindo25/php-api-router">API Router</a></h3>
+<h3><a href="https://github.com/EduardoGalindo25/auth-library">Auth library</a></h3>
 
 ---
 
@@ -58,6 +59,7 @@
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🛠 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
