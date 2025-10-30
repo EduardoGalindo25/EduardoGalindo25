@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/EduardoGalindo25">Eduardo</a> 🎧</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" alt="Full Stack Developer" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+Engineer;SysAdmin+Specialist" alt="Full Stack / DevOps / SysAdmin" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=PHP+Lover" alt="PHP Lover" />
 <br>
@@ -60,16 +60,53 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-006272?style=for-the-badge&logo=database&logoColor=white)
+![DB Audit](https://img.shields.io/badge/Database%20Audit-1565C0?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ⚙️ DevOps / SysAdmin
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-FC6C0D?style=for-the-badge&logo=apache&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-4C566A?style=for-the-badge&logo=linux&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-00599C?style=for-the-badge&logo=linux&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-2E7D32?style=for-the-badge&logo=linux&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-D32F2F?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-00BFA5?style=for-the-badge&logo=linux&logoColor=white)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DNS / No-IP](https://img.shields.io/badge/DNS%20%2F%20No--IP-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### ☁️ 🌐 Cloud & Deployment
+![Azure VM](https://img.shields.io/badge/Azure%20VM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure MySQL Flexible](https://img.shields.io/badge/Azure%20MySQL%20Flexible-0078D4?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![FTP / SFTP](https://img.shields.io/badge/FTP%20%2F%20SFTP-009688?style=for-the-badge&logo=filezilla&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
+![.htaccess](https://img.shields.io/badge/.htaccess-444444?style=for-the-badge&logo=apache&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### 🛠 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-0A0A0A?style=for-the-badge&logo=composer&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-FC6C0D?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![cURL](https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF%20Protection-6D4C41?style=for-the-badge&logo=shield&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![npx](https://img.shields.io/badge/npx-000000?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
