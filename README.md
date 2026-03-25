@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/EduardoGalindo25">Eduardo</a> ☁️🤖</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%86%92+MLOps;Building+Scalable+Systems;Docker+%7C+CI%2FCD+%7C+APIs+FullStack;Machine+Learning" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%86%92+MLOps;Building+Scalable+Systems;Docker+%7C+CI%2FCD+%7C+APIs+%7C+FullStack;Machine+Learning" />
 </p>
 
 ---
