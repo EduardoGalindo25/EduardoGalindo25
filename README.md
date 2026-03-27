@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/EduardoGalindo25">Eduardo</a> ☁️🤖</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%E2%86%92+MLOps;Building+Scalable+Systems;Docker+%7C+CI%2FCD+%7C+APIs+%7C+FullStack;Machine+Learning" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer+%E2%86%92+MLOps;GCP+%2F+Azure;Docker+%7C+Cloud+Run+%7C+VM+%7C+CE" />
 </p>
 
 ---
@@ -11,9 +11,9 @@
 - Design and deploy **cloud-based applications and APIs** using Azure and (currently learning) GCP.  
 - Build and manage **containerized environments** with Docker and Docker Compose.  
 - Implement **CI/CD pipelines** using GitHub Actions and Jenkins for automated workflows.  
-- Develop and deploy **machine learning solutions** using scikit-learn and LightGBM.  
 - Work with **Linux servers**, reverse proxies, and system services for production environments.  
 - Manage **databases and cloud infrastructure**, including access control and networking basics.  
+- Manage domains and subdomains.
 
 💡 Background in full-stack development, allowing me to understand systems end-to-end — from application logic to deployment and scalability.
 
@@ -59,7 +59,7 @@ Aquí irán tus proyectos enfocados en:
 
 ### ☁️ Cloud & MLOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP (Learning)](https://img.shields.io/badge/GCP-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -76,7 +76,7 @@ Aquí irán tus proyectos enfocados en:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🌐 Frontend (Background)
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
