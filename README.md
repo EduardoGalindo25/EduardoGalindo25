@@ -39,6 +39,22 @@ Aquí irán tus proyectos enfocados en:
 
 ---
 
+## 📦 Side / scholar Projects
+### 🚀 Scholar python projects
+#### Moderator chat 
+[Go to repository](https://github.com/EduardoGalindo25/moderador_de_lenguaje)
+### 🚀 PHP side projects for open source
+#### Request Helpers
+[Go to repository](https://github.com/EduardoGalindo25/request-helpers)
+#### 🌟 PHP API Router for lightweight native projects
+[Go to repository](https://github.com/EduardoGalindo25/php-api-router)
+#### 🌟 SQL Helper for native php
+[Go to repository](https://github.com/EduardoGalindo25/sql-helpers)
+#### Response Helpers
+[Go to repository](https://github.com/EduardoGalindo25/response-helpers)
+
+---
+
 ## 🌟 Technologies & Tools
 
 ### ☁️ Cloud & MLOps
