@@ -1,56 +1,55 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/EduardoGalindo25">Eduardo</a> ☁️🤖</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer+%E2%86%92+MLOps;GCP+%2F+Azure;Docker+%7C+Cloud+Run+%7C+VM+%7C+CE" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer;Infrastructure+as+Code;Future+MLOps+Architect;Azure+%2F+GCP+%2F+AWS" />
 </p>
 
 ---
 
-## ☁️ What I Do
+## ☁️ Professional Profile: Cloud & DevOps
+I am a **Cloud DevOps Engineer** focused on architecting scalable, resilient, and automated infrastructure. My core expertise lies in orchestrating containerized environments and building robust CI/CD pipelines that bridge the gap between development and production.
 
-- Design and deploy **cloud-based applications and APIs** using Azure and (currently learning) GCP.  
-- Build and manage **containerized environments** with Docker and Docker Compose.  
-- Implement **CI/CD pipelines** using GitHub Actions and Jenkins for automated workflows.  
-- Work with **Linux servers**, reverse proxies, and system services for production environments.  
-- Manage **databases and cloud infrastructure**, including access control and networking basics.  
-- Manage domains and subdomains.
-
-💡 Background in full-stack development, allowing me to understand systems end-to-end — from application logic to deployment and scalability.
+- 🛠️ Design and deploy **cloud-based applications** using Azure, GCP and AWS. 
+- 🏗️ **Infrastructure & Orchestration:** Designing cloud-native environments using Docker, Docker Compose, Traefik, currently studying Kubernetes.
+- 🚀 **CI/CD & Automation:** Implementing automated workflows with GitHub Actions and Jenkins to ensure high-velocity delivery.
+- 🐧 **Linux & Networking:** Expert management of Linux servers, system services (Systemd), and complex networking (Reverse Proxies, DNS, Load Balancing).
+- 🛡️ **Cloud Security:** Managing IAM, access control, and hardened entrypoints via Edge Proxies (Traefik/Nginx).
+- 
+💡 *With a strong background in Full-Stack development, I build infrastructure that actually understands the application logic it supports.*
 
 ---
 
 ## 🚀 Current Focus
 
-- Transitioning into **MLOps Engineering**  
-- Learning and working with **GCP (Cloud Run, cloud-native tools)**  
-- Building **ML pipelines ready for production**  
+- Aspiring **MLOps Engineering**  
+- Learning and working with **GCP, Azure && AWS**  
+- Building **Pipelines ready for production**  
 - Improving **cloud architecture and scalability skills**  
 
 ---
 
-## 📦 Featured Projects (Coming Soon)
+## 📦 DevOps / Cloud projects
 
-<!--
-Aquí irán tus proyectos enfocados en:
-- MLOps pipelines
-- Cloud deployments
-- APIs con ML
--->
+### 🌟 [Traefik Edge Proxy](https://github.com/EduardoGalindo25/traefik-edge-proxy)
+**The Gateway to my Cloud Ecosystem.** A modular infrastructure-as-code setup using Traefik v3.6. It handles:
+- 🔒 **Automatic SSL** via Let's Encrypt.
+- 🛠️ **Environment-aware config** (Local override vs. Prod overlay).
+- 🛡️ **Hardened Security** with BasicAuth, Rate Limiting, and Security Headers.
 
 ---
 
-## 📦 Side / scholar Projects
-### 🚀 Scholar python projects
+## 📦 Side Projects
+### 🚀 Scholar python project
 #### Moderator chat 
 [Go to repository](https://github.com/EduardoGalindo25/moderador_de_lenguaje)
 ### 🚀 PHP side projects for open source
-#### Request Helpers
+#### 🌟 Request Helpers
 [Go to repository](https://github.com/EduardoGalindo25/request-helpers)
 #### 🌟 PHP API Router for lightweight native projects
 [Go to repository](https://github.com/EduardoGalindo25/php-api-router)
 #### 🌟 SQL Helper for native php
 [Go to repository](https://github.com/EduardoGalindo25/sql-helpers)
-#### Response Helpers
+#### 🌟 Response Helpers
 [Go to repository](https://github.com/EduardoGalindo25/response-helpers)
 
 ---
