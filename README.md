@@ -33,7 +33,7 @@ I'm a **Fullstack Developer** at **Alfapcsmax**, a port-logistics training and c
 ### 🏢 At Alfapcsmax
 Products I've contributed to as part of the dev team:
 
-- **[OCMAX](https://ocmax.mx)** — multi-tenant SaaS certification-management platform built for **CONOCER** (Mexico's national labor-competency certification body). **Solo-built and maintained by me**: layered Repository-Service-DTO-Mapper architecture, documented ADRs, role-based multi-tenancy. My biggest individual ownership to date.
+- **[OCMAX](https://ocmax.mx)** — an Alfapcsmax product: a multi-tenant SaaS certification-management platform built for **CONOCER** (Mexico's national labor-competency certification body). **Solo-developed and maintained by me**: layered Repository-Service-DTO-Mapper architecture, documented ADRs, role-based multi-tenancy. My biggest individual responsibility to date.
 - **[RHMAX / Alfa Lab](https://rhmax.com.mx)** — a professional certification and training platform, the company's flagship, built **collaboratively** with the Alfapcsmax dev team.
 - Cross-cutting contribution: a talent/KPI metrics engine (IDA-PIDA), designed once and reused across other internal platforms — DRY in practice, not just in theory.
 
