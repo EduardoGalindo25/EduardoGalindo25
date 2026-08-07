@@ -8,7 +8,7 @@
 
 ## 💼 Professional Profile
 
-I'm a **Fullstack Developer** at **Alfapcsmax**, a consultancy specialized in port-logistics training and certification based in Manzanillo, Colima, Mexico — serving clients like Hazesa, Contecon, and Vicon. My core stack is **Laravel/PHP** for backend and API design, with **React** as my go-to for the frontend that consumes it.
+I'm a **Fullstack Developer** at **Alfapcsmax**, a port-logistics training and certification consultancy based in Manzanillo, Colima, Mexico. My core stack is **Laravel/PHP** for backend and API design, with **React** as my go-to for the frontend that consumes it.
 
 - 🏗️ **Backend-first fullstack:** I design data models, APIs, and the interfaces on top of them — end to end.
 - ⚙️ Currently learning **Spring Boot with Kafka** to broaden my backend toolkit.
@@ -34,8 +34,8 @@ I'm a **Fullstack Developer** at **Alfapcsmax**, a consultancy specialized in po
 Products I've contributed to as part of the dev team:
 
 - **[OCMAX](https://ocmax.mx)** — multi-tenant SaaS certification-management platform built for **CONOCER** (Mexico's national labor-competency certification body). **Solo-built and maintained by me**: layered Repository-Service-DTO-Mapper architecture, documented ADRs, role-based multi-tenancy. My biggest individual ownership to date.
-- **[RHMAX / Alfa Lab](https://rhmax.com.mx)**, **Sextante**, **NAZ**, **Rokarj**, **Astom**, **Prodar** — a family of training/certification platforms built **collaboratively** with the Alfapcsmax dev team. RHMAX/Alfa Lab is the company's flagship, publicly certifying professionals.
-- Cross-cutting contribution: a talent/KPI metrics engine (IDA-PIDA), designed once and reused across several of these platforms — DRY in practice, not just in theory.
+- **[RHMAX / Alfa Lab](https://rhmax.com.mx)** — a professional certification and training platform, the company's flagship, built **collaboratively** with the Alfapcsmax dev team.
+- Cross-cutting contribution: a talent/KPI metrics engine (IDA-PIDA), designed once and reused across other internal platforms — DRY in practice, not just in theory.
 
 ### 🧱 RedstonePHP — my own framework
 A PHP microframework built to solve a real production problem: stored procedures going out of sync across environments, and the N+1 cost of ORM-heavy frameworks. Introduces **PSC (Procedure-Service-Controller)**, checksum-tracked stored-procedure migrations, and a dependency-free JWT implementation (HS256/384/512, RS256, EdDSA). Currently at v2.1.0, tested with Pest and PHPStan level 5.
